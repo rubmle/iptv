@@ -2,45 +2,43 @@
 
 
 #EXTINF:-1 ,CCTV1
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000501
 #EXTINF:-1 ,CCTV2
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000502
 #EXTINF:-1 ,CCTV3
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000003
 #EXTINF:-1 ,CCTV4
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000503
 #EXTINF:-1 ,CCTV5
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 ,CCTV5+
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000005
 #EXTINF:-1 ,CCTV6
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000006
 #EXTINF:-1 ,CCTV7
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000504
 #EXTINF:-1 ,CCTV8
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000008
 #EXTINF:-1 ,CCTV9
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000505
 #EXTINF:-1 ,CCTV10
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000506
 #EXTINF:-1 ,CCTV11
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000508
 #EXTINF:-1 ,CCTV12
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226568/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000509
 #EXTINF:-1 ,CCTV13
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000510
 #EXTINF:-1 ,CCTV14
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000511
 #EXTINF:-1 ,CCTV15
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000512
 #EXTINF:-1 ,CCTV16
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000016
 #EXTINF:-1 ,CCTV17
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000513
 #EXTINF:-1 ,CCTV5+
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000507
+#EXTINF:-1 ,深圳卫视
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000529
 
 #EXTM3U x-tvg-url="https://live.hkdvb.com/epg/full.xml"
 #EXTINF:-1 group-title="{TVB}    無綫電視", {TVB}    無綫電視
