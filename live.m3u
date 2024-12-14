@@ -44,6 +44,12 @@ http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
 http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
+#EXTINF:-1 tvg-id="",动作电影 (1080p)
+http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="",精品电影 (1080p)
+http://183.207.248.71/cntv/live1/jdianying/jdianying
+#EXTINF:-1 tvg-id="",高清电影 (1080p)
+http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 
 #EXTM3U x-tvg-url="https://live.hkdvb.com/epg/full.xml"
 #EXTINF:-1 group-title="{TVB}    無綫電視", {TVB}    無綫電視
